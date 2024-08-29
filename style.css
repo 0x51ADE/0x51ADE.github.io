@@ -1,0 +1,11 @@
+body {
+    background-color: #ffbb00 !important;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Georgia, serif;
+}
+
+a {
+    color: #009999 !important;
+}
